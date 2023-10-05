@@ -1,0 +1,26 @@
+[
+  {
+    "userName": "admin123",
+    "email": "admin123@gmail.com",
+    "password": "abc123",
+    "role": "admin",
+    "phoneNumber": "089876543210",
+    "address": "Jl. Administrator No. 456"
+  },
+  {
+    "userName": "staff0",
+    "email": "staff0@gmail.com",
+    "password": "abc123",
+    "role": "staff",
+    "phoneNumber": "087654321098",
+    "address": "Jl. User No. 012"
+  },
+  {
+    "userName": "staff1",
+    "email": "staff1@gmail.com",
+    "password": "abc123",
+    "role": "staff",
+    "phoneNumber": "081234567890",
+    "address": "Jl. User No. 123"
+  }
+]

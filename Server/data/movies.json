@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Berserk",
+    "synopsis": "Berserk is an action-packed dark fantasy manga series written and illustrated by Kentaro Miura. It follows the journey of Guts, a lone mercenary with a tragic past, as he battles against demons, apostles, and dark forces in a world filled with violence and despair.",
+    "trailerUrl": "https://www.youtube.com/watch?v=XcY8qtMU9n0",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzA0ZGYxYzAtMmJlOC00OTFkLThhNmItYTdlMTdkNDY2NzQ4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "rating": 9,
+    "genreId": 1,
+    "authorId": 1
+  },
+  {
+    "title": "Vagabond",
+    "synopsis": "Vagabond is a historical martial arts manga series written and illustrated by Takehiko Inoue. It portrays the fictionalized life of the famous swordsman Miyamoto Musashi, as he embarks on a journey of self-discovery, honing his skills in the way of the sword.",
+    "trailerUrl": "https://www.youtube.com/watch?v=3YytHYb2qqg",
+    "imageUrl": "https://ih1.redbubble.net/image.3873754750.1833/flat,750x,075,f-pad,750x1000,f8f8f8.jpg",
+    "rating": 8,
+    "genreId": 1,
+    "authorId": 2
+  },
+  {
+    "title": "Vinland Saga",
+    "synopsis": "Vinland Saga is a historical adventure manga series written and illustrated by Makoto Yukimura. Set in the Viking Age, it follows the young Thorfinn's quest for revenge against Askeladd, the mercenary leader who killed his father, and his journey towards a new peaceful life in the legendary land of Vinland.",
+    "trailerUrl": "https://www.youtube.com/watch?v=f8JrZ7Q_p-8",
+    "imageUrl": "https://i.pinimg.com/1200x/6b/27/42/6b2742b9032c573c92b9dec673b2addc.jpg",
+    "rating": 7,
+    "genreId": 2,
+    "authorId": 3
+  }
+]
